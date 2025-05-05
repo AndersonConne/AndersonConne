@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]!
+# Hi, I'm Anderson Alroy Conner IV!
 
 I'm a **Junior Software Engineer** passionate about building responsive and user-friendly web applications.
 
@@ -9,8 +9,8 @@ I'm a **Junior Software Engineer** passionate about building responsive and user
 
 ## Projects
 Here are a few things I’ve been working on:
-- **[Project Name](https://github.com/your-username/project-repo):** Brief description of what the project does.
-- **[Another Project](https://github.com/your-username/another-project):** Short summary of features or tech used.
+- **[News Explorer](https://github.com/AndersonConne/se_project_final):** This project allows you to search for news articles and save them to your profile!
+- **[Spots](https://github.com/AndersonConne/se_project_spots):** This project allows user to post gifs or images, edit profile, and like posts. It uses HTML, CSS, and APIs
 
 ## What I'm Learning
 Currently diving deeper into:
